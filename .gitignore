@@ -2,3 +2,16 @@
 .Rhistory
 .RData
 .Ruserdata
+*.rda
+BootstrapPlots
+*.csv
+*.txt
+*.log
+doc
+Meta
+vignettes/.build.timestamp
+vignettes/EWCE_cache/*
+vignettes/EWCE_files/*
+
+docs
+docs/
